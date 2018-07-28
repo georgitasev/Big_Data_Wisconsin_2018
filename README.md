@@ -1,5 +1,5 @@
 # Big_Data_Wisconsin_2018
-![alt text-1](Images/GeorgiTasev-262x272.png) ![alt text-2](Images/BigDataHeader.jpg | width=50)
+![alt text-1](Images/GeorgiTasev-262x272.png) ![alt text-2](Images/BigDataHeader.jpg)
 
 This is the repo for Georgi Tasev's Big Data Wisconsin 2018 Tutorial Session, entitled "Liberate Your Inner Data Scientist Through a Simple Exercise."  
 
