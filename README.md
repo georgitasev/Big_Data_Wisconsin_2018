@@ -1,5 +1,5 @@
 # Big_Data_Wisconsin_2018
-![alt text-1](Images/GeorgiTasev-262x272.png) <img src="Images/BigDataHeader.jpg" alt="alt text-2" width="600" height="280">
+<img src="Images/GeorgiTasev-262x272.png" alt="alt text-1" width="262" height="272"> <img src="Images/BigDataHeader.jpg" alt="alt text-2" width="600" height="280">
 
 This is the repo for Georgi Tasev's Big Data Wisconsin 2018 Tutorial Session, entitled "Liberate Your Inner Data Scientist Through a Simple Exercise."  
 
