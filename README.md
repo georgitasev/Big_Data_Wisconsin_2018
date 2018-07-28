@@ -12,6 +12,6 @@ We will be highlighting key facets of data science through the exploration of [K
 In preparation for the tutorial, please download and install the Anaconda distribution of Python here:  [install Anaconda](https://www.anaconda.com/download/).  The download link will auto-detect your operating system and will provide you with the appropriate link for download onto Windows, Linux, and MacOS; you should install Python 2.7 for the purposes of this tutorial.
 
 ### Review the Titanic problem on Kaggle
-In preparation for the tutorial, please read the [overview](https://www.kaggle.com/c/titanic), [explanation of the datasets](https://www.kaggle.com/c/titanic/data), and check out a few of the [starter kits](https://www.kaggle.com/c/titanic/kernels) provided by the Kaggle community.  Consider this an exercise akin to reading the "Lab Manual" prior to a bio or chemsitry lab.  It shall give you an adequate understanding of what we are trying to accomplish during the tutorial.
+In preparation for the tutorial, please read the [overview](https://www.kaggle.com/c/titanic), [explanation of the datasets](https://www.kaggle.com/c/titanic/data), and check out a few of the [starter kits](https://www.kaggle.com/c/titanic/kernels) provided by the Kaggle community.  Consider this an exercise akin to reading a "Lab Manual" prior to a bio or chemsitry lab.  It shall give you an adequate understanding of what we are trying to accomplish during the tutorial.
 
 
