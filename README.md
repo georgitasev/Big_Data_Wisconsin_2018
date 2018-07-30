@@ -14,4 +14,4 @@ In preparation for the tutorial, please download and install the Anaconda distri
 ### Review the Titanic problem on Kaggle
 In preparation for the tutorial, please read the [overview](https://www.kaggle.com/c/titanic), [explanation of the datasets](https://www.kaggle.com/c/titanic/data), and check out a few of the [starter kits](https://www.kaggle.com/c/titanic/kernels) provided by the Kaggle community.  Consider this an exercise akin to reading a "Lab Manual" prior to a bio or chemsitry lab.  It shall give you an adequate understanding of what we are trying to accomplish during the tutorial.
 
-
+test
