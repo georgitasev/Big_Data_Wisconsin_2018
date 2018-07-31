@@ -1,0 +1,12 @@
+﻿Algorithm,Ease of use/interpretability,Coolness
+OLS,2.5,-1.25
+Nearest Neighbors,2.5,-2.5
+Neural Nets,-2.5,2.5
+Random Forests,-1.25,2.25
+Gaussian Discriminant Analysis,0,0
+Logistic Regression,1.5,-1.25
+SVMs,0.75,-0.5
+K-means,1.25,-1.5
+Spectral Graph Clustering,-0.5,0.75
+Ridge Regression,1.25,-0.5
+LASSO,1.25,0.5
